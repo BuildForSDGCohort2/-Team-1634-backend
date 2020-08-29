@@ -1,0 +1,28 @@
+{
+  "name": "team-1634-backend",
+  "version": "1.0.0",
+  "description": "Qwik Jobs - Adwoma App Backend Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildForSDGCohort2/Team-1634-backend.git"
+  },
+  "keywords": [
+    "Jobs"
+  ],
+  "author": "Emmanuel Preko Boamah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuildForSDGCohort2/Team-1634-backend/issues"
+  },
+  "homepage": "https://github.com/BuildForSDGCohort2/Team-1634-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
+}
